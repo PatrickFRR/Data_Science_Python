@@ -11,3 +11,13 @@ In this repository are the lessons seen in Simplilearn's "Data Science with Pyth
 - Explain slicing and accessing the four data structures
 - Discuss basic operators and functions
 - Outline the important control flow statements
+
+2. Mathematical Computing with Python (NumPy)
+
+- Explain NumPy and its importance
+- Discuss the basics of NumPy, including its fundamental objects
+- Demonstrate how to create and print a NumPy array
+- Analyze and perform basic operations in NumPy
+- Utilize shape manipulation and copying methods
+- Demonstrate how to execute linear algebraic functions
+- Build basic programs using NumPy
