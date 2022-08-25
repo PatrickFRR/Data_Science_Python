@@ -21,3 +21,10 @@ In this repository are the lessons seen in Simplilearn's "Data Science with Pyth
 - Utilize shape manipulation and copying methods
 - Demonstrate how to execute linear algebraic functions
 - Build basic programs using NumPy
+
+3. Scientific Computing with Python (SciPy)
+
+- Explain the importance of SciPy 
+- List the characteristics of SciPy
+- Explain sub-packages of SciPy
+- Discuss SciPy sub-packages, such as optimization, integration, linear algebra, statistics.
